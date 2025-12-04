@@ -13,7 +13,7 @@ apt install cmake build-essential python3-dev
 ```
 Clone the project
 ```bash
-git clone git@github.com:rishab8963/pdf-convex.git
+git clone git@github.com:ShikharGupta0813/pdf-convex.git
 ```
 Go inside the backend folder
 ```bash
